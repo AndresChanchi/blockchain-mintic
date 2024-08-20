@@ -1,0 +1,16 @@
+# Directorio de dependencias
+node_modules/
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de entorno
+*.env
+
+# Directorios de construcción
+dist/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
