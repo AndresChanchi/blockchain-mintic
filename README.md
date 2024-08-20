@@ -23,6 +23,12 @@ Para instalar las dependencias del proyecto, sigue estos pasos:
 1. **Clona el repositorio:**
    ```bash
    git clone git@github.com:AndresChanchi/blockchain-mintic.git
-2. **npm install**~
-3. **cd src/**
-4. **node main.js**
+2. **Instala las dependencias necesarias:**
+   ```bash
+   npm install
+3. **Abre la carpeta src/**
+   ```bash
+   cd src/
+4. **Ejecuta el comando** 
+   ```bash
+   **node main.js**
