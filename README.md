@@ -12,7 +12,6 @@ Este proyecto es una implementación simple de una blockchain utilizando la bibl
 - **`package-lock.json`**: Archivo de bloqueo de dependencias, que asegura la instalación consistente de paquetes.
 - **`package.json`**: Contiene la configuración del proyecto, las dependencias y scripts.
 - **`src/block.js`**: Implementación de la estructura de un bloque en la blockchain.
-- **`src/blockchain-mintic`**: (Nota: Asegúrate de revisar o renombrar este archivo si es necesario).
 - **`src/blockchain.js`**: Implementación de la lógica de la blockchain.
 - **`src/main.js`**: Archivo principal que inicia y gestiona la blockchain.
 
