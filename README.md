@@ -31,4 +31,4 @@ Para instalar las dependencias del proyecto, sigue estos pasos:
    cd src/
 4. **Ejecuta el comando** 
    ```bash
-   **node main.js**
+   node main.js
