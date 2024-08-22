@@ -14,7 +14,7 @@ Express se utiliza para crear una API RESTful que permite interactuar con la blo
 - **`package.json`**: Contiene la configuración del proyecto, las dependencias y scripts.
 - **`src/block.js`**: Implementación de la estructura de un bloque en la blockchain.
 - **`src/blockchain.js`**: Implementación de la lógica de la blockchain.
-- **src/server.js**: Archivo principal del servidor que inicia y gestiona la API de la blockchain.
+- **`src/server.js`**: Archivo principal del servidor que inicia y gestiona la API de la blockchain.
 
 ## Instalación
 
