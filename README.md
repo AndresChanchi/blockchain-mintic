@@ -1,10 +1,11 @@
-# Blockchain Simple con CryptoJS
+# Blockchain Simple con Express
 
 ## Descripción
 
-Este proyecto es una implementación simple de una blockchain utilizando la biblioteca **CryptoJS** en Node.js. El propósito de este proyecto es educativo: aprender los conceptos básicos de criptografía, hashing, y cómo funcionan las blockchains a nivel fundamental.
+Blockchain Simple con Express Descripción
+Este proyecto es una implementación simple de una blockchain utilizando Node.js y el framework Express. El propósito de este proyecto es educativo: aprender los conceptos básicos de criptografía, hashing y cómo funcionan las blockchains a nivel fundamental.
 
-**CryptoJS** se utilizó para demostrar la creación de hashes y otros conceptos criptográficos, a pesar de que la librería está en descontinuación. Esto permite comprender cómo funcionan estos algoritmos sin necesidad de utilizar librerías más modernas o actualizadas.
+Express se utiliza para crear una API RESTful que permite interactuar con la blockchain, como recuperar la cadena, agregar nuevos bloques y validar la cadena.
 
 ## Estructura del Proyecto
 
@@ -13,7 +14,7 @@ Este proyecto es una implementación simple de una blockchain utilizando la bibl
 - **`package.json`**: Contiene la configuración del proyecto, las dependencias y scripts.
 - **`src/block.js`**: Implementación de la estructura de un bloque en la blockchain.
 - **`src/blockchain.js`**: Implementación de la lógica de la blockchain.
-- **`src/main.js`**: Archivo principal que inicia y gestiona la blockchain.
+- **src/server.js**: Archivo principal del servidor que inicia y gestiona la API de la blockchain.
 
 ## Instalación
 
