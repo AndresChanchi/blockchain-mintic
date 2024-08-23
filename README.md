@@ -1,23 +1,23 @@
-# Mintic Blockchain Course Documentation
+# Documentación del Curso de Blockchain de Mintic
 
-## Description
+## Descripción
 
-This repository documents the educational journey through a blockchain course with the Mintic program in Colombia. The course is structured in a step-by-step manner, where each class builds upon the previous one.
+Este repositorio documenta el viaje educativo a través de un curso de blockchain con el programa Mintic en Colombia. El curso está estructurado de manera progresiva, donde cada clase se basa en la anterior.
 
-## Class Overview
+## Resumen de Clases
 
-- **Class 1**: Introduction to blockchain with a simple implementation using CryptoJS.
-  - **Branch**: [class1](https://github.com/AndresChanchi/blockchain-mintic/tree/class1)
-- **Class 2**: Integration of a RESTful API with Express to interact with the blockchain.
-  - **Branch**: [class2](https://github.com/AndresChanchi/blockchain-mintic/tree/class2)
-- **Class 3**: Setting up a React frontend with Vite for interacting with the blockchain API.
-  - **Branch**: [class3Frontend](https://github.com/AndresChanchi/blockchain-mintic/tree/class3Frontend)
+- **Clase 1**: Introducción a blockchain con una implementación simple utilizando CryptoJS.
+  - **Rama**: [class1](https://github.com/AndresChanchi/blockchain-mintic/tree/class1)
+- **Clase 2**: Integración de una API RESTful con Express para interactuar con la blockchain.
+  - **Rama**: [class2](https://github.com/AndresChanchi/blockchain-mintic/tree/class2)
+- **Clase 3**: Configuración de un frontend en React con Vite para interactuar con la API de blockchain.
+  - **Rama**: [class3Frontend](https://github.com/AndresChanchi/blockchain-mintic/tree/class3Frontend)
 
-## Latest Updates
+## Últimas Actualizaciones
 
-- **Current Branch (`course-summary`)**: Summarizes the progress and updates from all previous classes. It includes a consolidated view of the learning outcomes and key concepts covered.
-- **Recent Changes**: Updates from the latest class or modification can be added here. This section keeps track of the most recent changes and additions to the project.
+- **Rama Actual (`course-summary`)**: Resume el progreso y las actualizaciones de todas las clases anteriores. Incluye una vista consolidada de los resultados de aprendizaje y los conceptos clave cubiertos.
+- **Cambios Recientes**: Los detalles sobre los cambios y adiciones más recientes se pueden agregar aquí. Esta sección mantiene un seguimiento de las modificaciones y adiciones más recientes al proyecto.
 
-## Installation and Usage
+## Instalación y Uso
 
-Follow the instructions in the respective class branches for installation and usage details. Each branch contains its own setup and execution instructions.
+Sigue las instrucciones en las ramas respectivas de la clase para detalles sobre la instalación y el uso. Cada rama contiene sus propias instrucciones de configuración y ejecución.
