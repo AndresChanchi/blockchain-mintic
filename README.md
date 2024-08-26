@@ -15,7 +15,7 @@ Este repositorio documenta el viaje educativo a través de un curso de blockchai
 
 ## Últimas Actualizaciones
 
-- **Rama Actual (`course-summary`)**: Resume el progreso y las actualizaciones de todas las clases anteriores. Incluye una vista consolidada de los resultados de aprendizaje y los conceptos clave cubiertos.
+- **Rama Actual (`project-documentation`)**: Resume el progreso y las actualizaciones de todas las clases anteriores. Incluye una vista consolidada de los resultados de aprendizaje y los conceptos clave cubiertos.
 - **Cambios Recientes**: Los detalles sobre los cambios y adiciones más recientes se pueden agregar aquí. Esta sección mantiene un seguimiento de las modificaciones y adiciones más recientes al proyecto.
 
 ## Instalación y Uso

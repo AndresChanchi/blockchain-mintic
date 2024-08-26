@@ -15,7 +15,7 @@ This repository documents the educational journey through a blockchain course wi
 
 ## Latest Updates
 
-- **Current Branch (`course-summary`)**: Summarizes the progress and updates from all previous classes. It includes a consolidated view of the learning outcomes and key concepts covered.
+- **Current Branch (`project-documentation`)**: Summarizes the progress and updates from all previous classes. It includes a consolidated view of the learning outcomes and key concepts covered.
 - **Recent Changes**: Updates from the latest class or modification can be added here. This section keeps track of the most recent changes and additions to the project.
 
 ## Installation and Usage
