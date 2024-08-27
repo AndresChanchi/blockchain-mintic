@@ -3,6 +3,7 @@ import { createContext, useState, useEffect } from "react";
 export const ApiContext = createContext();
 
 export const ApiProvider = ({ children }) => {
+    
     const [data, setData] = useState([]);
 
     const getChain = async () => {
@@ -15,7 +16,10 @@ export const ApiProvider = ({ children }) => {
         }
     };
 
-    const addChian= async (newBlockData) =>{
+    return {
+    }
+
+    const addChain= async (newBlockData) =>{
         try{
             const resonse = await fetch('http://localhost:3000/addBlock',{
                 method: "POST",
@@ -29,7 +33,7 @@ export const ApiProvider = ({ children }) => {
         }catch(error){
             console.error("Error adding block:", error);
         }
-    }
+    };
 
 
-};
+}
